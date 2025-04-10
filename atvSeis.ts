@@ -1,6 +1,6 @@
 /*6 – Faça um programa que pergunte qual tabuada deseja exibir, e mostre essa tabuada (tente
     usar laço de repetição)
-    Aluno: Pablo Isaac Sponchiado da Silva
+    Aluno: Pedro Henrique de Almeida Elias
 */ 
 
 let teclado = require(`prompt-sync`)();
